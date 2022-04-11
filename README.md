@@ -34,13 +34,9 @@ Access the site at http://localhost:3000
 
 ## Usage
 
-View different sections by looking at components in the `./src/components/`
-directory. See the output by changing the template in `./src/App.vue`. For
-example, to view the **Array > Statistics** section, change the template to
-`<ArrayStatistics />`.
-
-Once the file is saved and the page is hot-reloaded, the examples are live in
-the browser. Open your browser's development console to view the output.
+View different sections by looking at components in the `./src/pages/`
+directory. See the output by clicking on its name on the left navigation of the
+site.
 
 ## License
 
